@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="89.25248mm"
+   height="3.5051994mm"
+   viewBox="0 0 89.252479 3.5051994"
+   version="1.1"
+   id="svg714"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+   <style>
+      @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@300;500;700&display=swap');
+      text {
+         font-family: 'Kode Mono', monospace;
+      }
+   </style>
+  <defs
+     id="defs711" />
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Kode Mono';-inkscape-font-specification:'Kode Mono';fill:#1e1e1e;stroke-width:1.92564;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       x="39.050663"
+       y="44.42461"
+       id="text837"><tspan
+         id="tspan835"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Kode Mono';-inkscape-font-specification:'Kode Mono';stroke-width:1.92564"
+         x="39.050663"
+         y="44.42461" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;font-family:'Kode Mono';-inkscape-font-specification:'Kode Mono Medium';fill:#1e1e1e;stroke-width:1.92564;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       x="11.665048"
+       y="25.907259"
+       id="text891"><tspan
+         id="tspan889"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Kode Mono';-inkscape-font-specification:'Kode Mono Medium';stroke-width:1.92564"
+         x="11.665048"
+         y="25.907259" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Kode Mono';-inkscape-font-specification:'Kode Mono Bold';white-space:pre;inline-size:184.448;fill:#1e1e1e;stroke-width:1.92564;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       x="19.260895"
+       y="26.314178"
+       id="text895"
+       transform="translate(-19.544294,-23.609079)"><tspan
+         x="19.260895"
+         y="26.314178"
+         id="tspan1102">Fuzz Fuzz Inc. (tm) AUTHORIZED DISCORD TERMINAL </tspan></text>
+  </g>
+</svg>
